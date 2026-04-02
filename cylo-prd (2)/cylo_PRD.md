@@ -1,9 +1,9 @@
-# Agrocylo — Product Requirements Document (PRD)
+# Cylo — Product Requirements Document (PRD)
 
 **Version:** 1.0.0
 **Status:** Draft
 **Last Updated:** March 2026
-**Author:** Agrocylo Core Team
+**Author:** Cylo Core Team
 
 ---
 
@@ -28,9 +28,9 @@
 
 ## 1. Executive Summary
 
-Agrocylo is an Agro-DeFi marketplace built on Starknet that enables direct, trustless trade between farmers and consumers. It eliminates agricultural middlemen through programmable escrow settlement, peer-to-peer order management, and native DeFi access via the Starkzap toolkit.
+Cylo is an Agro-DeFi marketplace built on Starknet that enables direct, trustless trade between farmers and consumers. It eliminates agricultural middlemen through programmable escrow settlement, peer-to-peer order management, and native DeFi access via the Starkzap toolkit.
 
-Every transaction on Agrocylo is secured by a Cairo smart contract deployed on Starknet. Funds are locked on-chain at order creation and released only after the buyer confirms receipt — guaranteeing protection for both parties without any custodial risk to the platform.
+Every transaction on Cylo is secured by a Cairo smart contract deployed on Starknet. Funds are locked on-chain at order creation and released only after the buyer confirms receipt — guaranteeing protection for both parties without any custodial risk to the platform.
 
 **Platform tagline:** *Fair trade. On-chain. For every farmer.*
 
@@ -56,7 +56,7 @@ Small-scale and urban farmers in emerging markets operate in a system structural
 - **Agricultural cooperatives** improve access but still rely on trusted intermediaries and are geographically constrained.
 - **General crypto payment apps** lack the domain-specific features (order management, escrow, dispute resolution) that agricultural trade requires.
 
-### 2.3 The Agrocylo Thesis
+### 2.3 The Cylo Thesis
 
 Blockchain-based escrow, combined with a consumer-grade marketplace interface, can replicate the trust guarantees that middlemen historically provided — while eliminating the economic extraction they represent. Agrocylo replaces trust in institutions with trust in code.
 
@@ -125,8 +125,8 @@ Platform fees are minimal (3%) and transparent. The platform never holds private
 **Persona A — Amara (Farmer)**
 Amara grows tomatoes and peppers on 2 acres outside Lagos. She currently sells through a market middleman who takes 35% of her revenue. She has a smartphone and recently set up an Argent X wallet through a cooperative program. She needs a simple interface to list her products, receive orders, and get paid in USDC without touching the terminal.
 
-**Persona B — Chidi (Buyer)**
-Chidi runs a small restaurant in Abuja and spends NGN 200,000/month on produce. He buys from a market vendor but suspects he is overpaying. He is comfortable with mobile apps and has used a crypto wallet before. He wants to buy directly from farmers, get better prices, and have delivery guaranteed before releasing payment.
+**Persona B — Olajide (Buyer)**
+Olajide runs a small restaurant in Abuja and spends NGN 200,000/month on produce. He buys from a market vendor but suspects he is overpaying. He is comfortable with mobile apps and has used a crypto wallet before. He wants to buy directly from farmers, get better prices, and have delivery guaranteed before releasing payment.
 
 ---
 
